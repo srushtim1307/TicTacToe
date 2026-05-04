@@ -1,1 +1,16 @@
-TicTacToe
+ 🎮 Tic Tac Toe
+A simple Tic Tac Toe game built using HTML, CSS, and JavaScript.
+
+ 🚀 Features
+* 2-player gameplay (X vs O)
+* Sound effects
+* Win detection
+
+ ▶️ How to Run
+Open `tictactoe.html` in your browser.
+
+ 🛠️ Tech
+HTML | CSS | JavaScript
+
+ 👩‍💻 Author
+Srushti Mate
